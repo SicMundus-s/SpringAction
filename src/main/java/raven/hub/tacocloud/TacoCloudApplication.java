@@ -7,6 +7,7 @@ import org.springframework.context.annotation.Bean;
 import raven.hub.tacocloud.models.Ingredient;
 import raven.hub.tacocloud.repository.IngredientRepository;
 
+
 @SpringBootApplication
 public class TacoCloudApplication {
 
